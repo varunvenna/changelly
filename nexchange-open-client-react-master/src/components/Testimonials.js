@@ -17,14 +17,14 @@ const Testimonials = props => (
 					name="Crypto Talk‏"
 					network="twitter"
 					link="https://twitter.com/bitreff/status/907478815890325504"
-					text="Check Out @NexchangeIO with a Simple, Secure and a transparent exchange that you use without registration."
+					text="Check Out @CripxIO with a Simple, Secure and a transparent exchange that you use without registration."
 					date="September 11, 2017, 10:39 PM" />
 				<Testimonial
 					img="/img/testimonials/john.jpg"
 					name="John Michael"
 					network="facebook"
 					link="https://www.facebook.com/rockztar.jm/posts/1475653122471191:0"
-					text="Nexchange is the next big exchange… clean ui, mobile friendly, smooth transaction and transparent platform. I have tried different types exchanges but this platform delivers what I want…"
+					text="Cripx is the next big exchange… clean ui, mobile friendly, smooth transaction and transparent platform. I have tried different types exchanges but this platform delivers what I want…"
 					date="September 11, 2017, 01:49 PM" />
 				<Testimonial
 					img="/img/testimonials/tomo.jpg"

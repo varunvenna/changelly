@@ -99,15 +99,15 @@ class Support extends Component {
 
           <div className="modal-body">
             <div className="row">
-              <div className="col-xs-12 col-sm-6">
+              {/* <div className="col-xs-12 col-sm-6">
                 <h3>Phone</h3>
                 <p onClick={() => ga('send', 'event', 'General', 'click support number')}>+442081442192<br/>
                   +16464612858 (US)</p>
-              </div>
+              </div> */}
             
               <div className="col-xs-12 col-sm-6">
                 <h3>Email</h3>
-                <p><a href="mailto:support@nexchange.io">support@nexchange.io</a></p>
+                <p><a href="mailto:support@Cripx.io">support@Cripx.io</a></p>
               </div>
             </div>
 
